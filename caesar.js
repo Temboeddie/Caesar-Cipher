@@ -23,4 +23,4 @@ function caesarCipher(str, num) {
     return newStr;
 }
 
-console.log(caesarCipher('neso academy', 3));
+console.log(caesarCipher('Caesar academy', 3));
